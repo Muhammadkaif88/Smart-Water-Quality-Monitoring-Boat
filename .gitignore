@@ -1,0 +1,15 @@
+# IDE and Editor files
+.vscode/
+.idea/
+*.iml
+
+# Flutter and Dart build artifacts
+flutter_app/build/
+flutter_app/.dart_tool/
+flutter_app/.flutter-plugins-dependencies
+flutter_app/.pub-cache/
+flutter_app/.pub/
+
+# OS generated files
+.DS_Store
+Thumbs.db
